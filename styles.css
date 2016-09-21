@@ -2,6 +2,18 @@ img {
     width: 400px;
 }
 body {
+    background-image: url("http://wallpapercave.com/wp/mKjYX0Q.jpg");
     text-align: center;
     font-family: "Arial";
+}
+
+
+p:hover {
+    font-size:25px;
+    -webkit-transition: all 2s;
+}
+
+p {
+    font-size:17px;
+    -webkit-transition: all 2s;
 }
