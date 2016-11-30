@@ -50,8 +50,6 @@ ellipse(298,129,19,66);
 ellipse(115,117,10,10);
 ellipse(96,139,24,6);
 fill(c1, c2, c3);
-textSize(20);
-text("#pineappleswag", 10, 10, 200, 200);
 textSize(40);
 text("NINJA FROG", 77, 360, 400, 50);
 fill(227, 91, 50);
