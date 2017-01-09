@@ -1,7 +1,6 @@
 void setup() {
   size(400, 400);
   frameRate(30);
-  background(0, 0, 0)
 }
 
 var snsklesblabedbwkb = function(eyeball, c1, c2, c3) {

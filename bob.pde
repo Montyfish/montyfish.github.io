@@ -4,21 +4,12 @@ void setup() {
   background(0, 0, 0)
 }
 
+
 var snsklesblabedbwkb = function(eyeball, c1, c2, c3) {
 fill(c1, c2, c3);
 rect(188,357,34,100);
 };
-var a;
-var b;
-var c;
 
-var draw = function() {
-    a = random(0,255);
-    b = random(0, 255);
-    c = random(0, 255);
-    snsklesblabedbwkb(15, a, b, c);
-
-};
 noStroke();
 background(38, 212, 255);
 fill(138, 228, 255);
@@ -57,7 +48,17 @@ fill(0, 0, 0);
 ellipse(182,306,20,20);
 ellipse(224,312,20,20);
 
+var a;
+var b;
+var c;
 
+var draw = function() {
+    a = random(0,255);
+    b = random(0, 255);
+    c = random(0, 255);
+    snsklesblabedbwkb(15, a, b, c);
+
+};
 
 void draw() {
   
